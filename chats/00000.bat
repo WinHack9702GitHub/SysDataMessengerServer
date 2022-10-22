@@ -1,6 +1,6 @@
 @echo off
 cls
-echo SysDataSoft Chat===========================%time-%date%
+echo SysDataSoft Chat===========================%time%=%date%
 echo (SDSBot)Welcome to chat!Its created!
 echo To update chat click any key...
 pause >> nul
